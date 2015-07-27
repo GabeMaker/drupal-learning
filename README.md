@@ -1,2 +1,5 @@
-# drupal-learning
-Using web-based resources to get started with Drupal
+# Drupal Learning
+
+Resources:
+
+- [Code Karate](http://codekarate.com/) Learn Drupal in 30 days (daily email series)
