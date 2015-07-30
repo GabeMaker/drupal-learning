@@ -19,3 +19,4 @@
 - Creating articles and pages
 - Finding, filtering and editing content
 - 'Node' and other key terms from the [Drupal Glossary](https://www.drupal.org/glossary)
+
