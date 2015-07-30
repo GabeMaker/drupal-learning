@@ -9,8 +9,13 @@
 
 ## Day 2: Administering your Drupal website
 - Using the Toolbar and shortcut bar
-- Change the basic site information (name, slogan, etc.)
+- Change basic site information (name, slogan, etc.)
 - Check status report, available updates and log messages
 - *Play:* Enabled Poll module and added content; created test user; changed comment editing permissions; changed default theme to Seven (noticed that user login block disappeared so briefly could not logout/log back in as admin)
-- **Theory:** Changing settings usually means changes in the Drupal database
+- *Theory:* Changing settings usually means changes in the Drupal database
 - [The Drupal overview](https://www.drupal.org/getting-started/before/overview)
+
+## Day 3: Drupal Content Management
+- Creating articles and pages
+- Finding, filtering and editing content
+- 'Node' and other key terms from the [Drupal Glossary](https://www.drupal.org/glossary)
