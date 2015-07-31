@@ -20,3 +20,7 @@
 - Finding, filtering and editing content
 - 'Node' and other key terms from the [Drupal Glossary](https://www.drupal.org/glossary)
 
+## Day 4: Blocks System
+- View available regions
+- Move the Powered By Drupal block
+- Add a custom block
