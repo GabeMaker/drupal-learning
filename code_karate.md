@@ -24,3 +24,5 @@
 - View available regions
 - Move the Powered By Drupal block
 - Add a custom block
+
+## Day 5: Menus in Drupal
