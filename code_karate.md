@@ -26,3 +26,15 @@
 - Add a custom block
 
 ## Day 5: Menus in Drupal
+## Day 6: Drupal Themes
+---
+---
+
+*Activity log not maintained as I found it more valuable to play and experiment with Drupal using the emails as starting points, rather documenting everything formally.*
+
+---
+---
+## Day 28: More Drupal Website Launch Considerations
+## Day 29: Drupal Hosting Providers
+## Day 30: Updating your Drupal website
+
